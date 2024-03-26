@@ -1,6 +1,6 @@
 # txt uploader
 
-# Made By TIGER
+# Made By unknown
 
 
 ## DEPLOY TO HEROKU
